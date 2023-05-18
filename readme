@@ -1,0 +1,8 @@
+meron ka bang lemon?
+gusto ko tequila!
+
+#to monitor the file
+git status 
+
+#to stage a file
+git add <filename>
